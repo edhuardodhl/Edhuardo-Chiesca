@@ -4,9 +4,11 @@
 <h3>Experiência</h3>
 <li>Suporte de Operações Pleno I - Ztrax S/A - 07/2022 - Atual</li>
 
+
 <h3>Educação</h3>
 <li>Ensino Médio Completo;</li>
 <li>Engenharia da Computação, Centro Universatário de Tecnologia de Curitiba (UNIFATEC).</li>
+
 
 <h3>Cursos</h3>
 <li>Excel Básico, Fundação Bradesco;</li>
