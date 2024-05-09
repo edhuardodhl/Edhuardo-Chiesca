@@ -1,25 +1,25 @@
 <h1>Edhuardo Camargo Chiesca</h1>
 
 
-<li>Experiência</li>
-</p>Suporte de Operações Pleno I - Ztrax S/A - 07/2022 - Atual</p>
+<h3>Experiência</h3>
+<li>Suporte de Operações Pleno I - Ztrax S/A - 07/2022 - Atual</li>
 
-<li>Educação</li>
-</p>Ensino Médio Completo;</p>
-</p>Engenharia da Computação, Centro Universatário de Tecnologia de Curitiba (UNIFATEC).</p>
+<h3>Educação</h3>
+<li>Ensino Médio Completo;</li>
+<li>Engenharia da Computação, Centro Universatário de Tecnologia de Curitiba (UNIFATEC).</li>
 
-<li>Cursos</li>
-</p>Excel Básico, Fundação Bradesco;</p>
-</p>Excel Intermidiário, Fundação Bradesco;</p>
-</p>Word Básico, Fundação Bradesco;</p>
-</p>Word Intermidiário, Fundação Bradesco.</p>
+<h3>Cursos</h3>
+<li>Excel Básico, Fundação Bradesco;</li>
+<li>Excel Intermidiário, Fundação Bradesco;</li>
+<li>Word Básico, Fundação Bradesco;</li>
+<li>Word Intermidiário, Fundação Bradesco.</li>
 
 
-<li>Habilidades</li>
-</p>Fácil Aprendizado;</p> 
-</p>Comprometimento;</p>
-</p>Pesquisa;</p>
-</p>Inglês (básico);</p>
-</p>Python (básico);</p>
-</p>Linguagem R (básico); </p>
-Linguagem C (básico).</p>
+<h3>Habilidades</h3>
+<li>Fácil Aprendizado;</li> 
+<li>Comprometimento;</li>
+<li>Pesquisa;</li>
+<li>Inglês (básico);</li>
+<li>Python (básico);</li>
+<li>Linguagem R (básico); </li>
+<li>Linguagem C (básico).</li>
